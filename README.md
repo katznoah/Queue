@@ -2,6 +2,9 @@
 ----
 Creating a queue
 ----
+
+Use ```make all``` to create the ```run``` executable or ```make run``` to begin running the Queue
+
 How it will work:
 - HTML form taking input
 - Input appended to Queue.txt by PHP fopen() and fwrite()
